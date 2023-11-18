@@ -16,10 +16,6 @@
 
 ## Authors
 
-- [@Pranjal Varshney](https://www.github.com/pranjalvarshney)
-- [@Naina Upadhyay](https://www.github.com/naina25)
-- [@Devesh Kumar Singh](https://github.com/Devesh-19)
-
 
 ## Screenshots
 
